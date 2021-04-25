@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-23T08:08:05.377Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="s2a1C_PAkQenKeaySCa1" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-25T02:20:21.951Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="J8gLk6thoB89Bcx1zLYq" version="14.6.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2390" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3181" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -421,6 +421,9 @@
         <mxCell id="F-g3I1seMJP-qdP17xgw-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="F-g3I1seMJP-qdP17xgw-154" target="F-g3I1seMJP-qdP17xgw-166">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="F-g3I1seMJP-qdP17xgw-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.469;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="F-g3I1seMJP-qdP17xgw-154" target="F-g3I1seMJP-qdP17xgw-204">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="F-g3I1seMJP-qdP17xgw-154" value="&lt;font style=&quot;font-size: 18px&quot;&gt;部门&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="0.75" y="2490" width="120" height="60" as="geometry" />
         </mxCell>
@@ -456,7 +459,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F-g3I1seMJP-qdP17xgw-161" value="&lt;font style=&quot;font-size: 14px&quot;&gt;系统管理员&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry y="2240" width="120" height="60" as="geometry" />
+          <mxGeometry y="2120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F-g3I1seMJP-qdP17xgw-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="F-g3I1seMJP-qdP17xgw-163" target="F-g3I1seMJP-qdP17xgw-188">
           <mxGeometry relative="1" as="geometry" />
@@ -481,13 +484,12 @@
         <mxCell id="F-g3I1seMJP-qdP17xgw-164" value="计算资源池" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="457" y="2390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F-g3I1seMJP-qdP17xgw-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="F-g3I1seMJP-qdP17xgw-165">
+        <mxCell id="F-g3I1seMJP-qdP17xgw-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="F-g3I1seMJP-qdP17xgw-165" target="F-g3I1seMJP-qdP17xgw-203">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="491.00000000000045" y="2940" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="620" y="2520" />
-              <mxPoint x="620" y="2745" />
-              <mxPoint x="491" y="2745" />
+              <mxPoint x="680" y="2520" />
+              <mxPoint x="680" y="2950" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -501,7 +503,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F-g3I1seMJP-qdP17xgw-170" value="系统管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-370" y="2810" width="120" height="60" as="geometry" />
+          <mxGeometry x="-390" y="2810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F-g3I1seMJP-qdP17xgw-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="F-g3I1seMJP-qdP17xgw-171" target="F-g3I1seMJP-qdP17xgw-180">
           <mxGeometry relative="1" as="geometry">
@@ -539,6 +541,17 @@
         <mxCell id="F-g3I1seMJP-qdP17xgw-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="F-g3I1seMJP-qdP17xgw-185" target="F-g3I1seMJP-qdP17xgw-163">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="F-g3I1seMJP-qdP17xgw-206" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="F-g3I1seMJP-qdP17xgw-185">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-390" y="2810" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-370" y="2390" />
+              <mxPoint x="-370" y="2740" />
+              <mxPoint x="-390" y="2740" />
+              <mxPoint x="-390" y="2806" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="F-g3I1seMJP-qdP17xgw-185" value="&lt;font style=&quot;font-size: 18px&quot;&gt;公司&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3FF66;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="2360" width="120" height="60" as="geometry" />
         </mxCell>
@@ -564,10 +577,13 @@
           <mxGeometry x="730" y="2590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F-g3I1seMJP-qdP17xgw-197" value="&lt;div&gt;&lt;span style=&quot;font-size: medium&quot;&gt;&quot;cloud&quot;&lt;/span&gt;&lt;span style=&quot;font-size: medium&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;font-size: medium&quot;&gt;&quot;database_datastore&quot;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&lt;span&gt;	&lt;/span&gt;&quot;database_deployment&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&lt;span&gt;	&lt;/span&gt;&quot;datacenter&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&lt;span&gt;	&lt;/span&gt;&quot;dnat_rule&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&lt;span&gt;	&lt;/span&gt;&quot;folder&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&lt;span&gt;	&lt;/span&gt;&quot;host&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&lt;span&gt;	&lt;/span&gt;&quot;host_group&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&lt;span&gt;	&lt;/span&gt;&quot;image&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&lt;span&gt;	&lt;/span&gt;&quot;ip&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&lt;span&gt;	&lt;/span&gt;&quot;key_pair&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&lt;span&gt;	&lt;/span&gt;&quot;kube_controller&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&lt;span&gt;	&lt;/span&gt;&quot;kube_horizontalpodautoscaler&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&lt;span&gt;	&lt;/span&gt;&quot;kube_ingress&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&lt;span&gt;	&lt;/span&gt;&quot;kube_ingress_rule&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&lt;span&gt;	&lt;/span&gt;&quot;kube_pod&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&lt;span&gt;	&lt;/span&gt;&quot;kube_service&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&lt;span&gt;	&lt;/span&gt;&quot;lb_listener&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&lt;span&gt;	&lt;/span&gt;&quot;lb_member&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&lt;span&gt;	&lt;/span&gt;&quot;lb_monitor&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&lt;span&gt;	&lt;/span&gt;&quot;lb_pool&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&lt;span&gt;	&lt;/span&gt;&quot;lb_service&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&lt;span&gt;	&lt;/span&gt;&quot;network&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&lt;span&gt;	&lt;/span&gt;&quot;ossserver_property&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&lt;span&gt;	&lt;/span&gt;&quot;router&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&lt;span&gt;	&lt;/span&gt;&quot;routerinterface&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&lt;span&gt;	&lt;/span&gt;&quot;security_group&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&lt;span&gt;	&lt;/span&gt;&quot;security_group_rule&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&lt;span&gt;	&lt;/span&gt;&quot;snat_gateway&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&lt;span&gt;	&lt;/span&gt;&quot;snat_rule&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&lt;span&gt;	&lt;/span&gt;&quot;storage&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&lt;span&gt;	&lt;/span&gt;&quot;storage_conn_group&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&lt;span&gt;	&lt;/span&gt;&quot;subnet&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&lt;span&gt;	&lt;/span&gt;&quot;task&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&lt;span&gt;	&lt;/span&gt;&quot;task_template&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&lt;span&gt;	&lt;/span&gt;&quot;tenant&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&lt;span&gt;	&lt;/span&gt;&quot;virtual_machine&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&lt;span&gt;	&lt;/span&gt;&quot;virtualethernetcard&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&lt;span&gt;	&lt;/span&gt;&quot;virtualmachine_snapshot&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&lt;span&gt;	&lt;/span&gt;&quot;volume&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&lt;span&gt;	&lt;/span&gt;&quot;volume_snapshot&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&lt;span&gt;	&lt;/span&gt;&quot;volume_type&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&lt;span&gt;	&lt;/span&gt;&quot;vpc&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&lt;span&gt;	&lt;/span&gt;&quot;vpc_peering&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&lt;span&gt;	&lt;/span&gt;&quot;vpc_peering_router&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&lt;span&gt;	&lt;/span&gt;&quot;vswitch&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;it_mas&quot;&lt;span&gt;	&lt;/span&gt;&quot;t_util_metering_volume&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;it_mas&quot;&lt;span&gt;	&lt;/span&gt;&quot;t_util_metering_volume_d&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;itops&quot;	&quot;kube_pod&quot;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=#99CCFF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1069.5" y="2050" width="617" height="920" as="geometry" />
+          <mxGeometry x="1069.5" y="2100" width="617" height="920" as="geometry" />
         </mxCell>
         <mxCell id="F-g3I1seMJP-qdP17xgw-203" value="&lt;font style=&quot;font-size: 14px&quot;&gt;网络目前没有归属部门，所有网络资源每个人都可见&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="413" y="2940" width="177" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="F-g3I1seMJP-qdP17xgw-204" value="&lt;div&gt;&lt;span style=&quot;font-size: medium&quot;&gt;&quot;cloud&quot;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&quot;folder&quot;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&quot;host&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&quot;host_group&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&quot;host_network&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&quot;storage&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&quot;virtual_machine&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;cloud&quot;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&quot;volume&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;it_mas&quot;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&quot;t_util_metering_volume&quot;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&quot;it_mas&quot;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&quot;t_util_metering_volume_d&quot;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=#66B2FF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="133.5" y="3020" width="276" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
