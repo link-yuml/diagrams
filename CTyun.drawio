@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-03T07:06:36.712Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="fUimzQx9nYRLOfHVbTQO" version="16.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-03T07:07:22.374Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="u0GKCeVRrtsPUx29uZ-N" version="16.6.5" type="github">
   <diagram id="rpGUyRY0c6zzdN_JAQHF" name="Page-1">
     <mxGraphModel dx="1730" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -89,19 +89,19 @@
         <mxCell id="3JQ_DlPpZyVaK5QD3R42-26" value="调用资源冻结接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="282" y="701" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3JQ_DlPpZyVaK5QD3R42-27" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1">
+        <mxCell id="3JQ_DlPpZyVaK5QD3R42-27" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="1350" as="sourcePoint" />
             <mxPoint x="221" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3JQ_DlPpZyVaK5QD3R42-28" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+        <mxCell id="3JQ_DlPpZyVaK5QD3R42-28" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="1350" as="sourcePoint" />
             <mxPoint x="461" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3JQ_DlPpZyVaK5QD3R42-29" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+        <mxCell id="3JQ_DlPpZyVaK5QD3R42-29" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="630" y="1350" as="sourcePoint" />
             <mxPoint x="631" y="631" as="targetPoint" />
