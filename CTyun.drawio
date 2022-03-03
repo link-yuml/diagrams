@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-03T08:15:13.885Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="6JQWaFqiExERxULIvyvi" version="16.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-03T11:14:34.863Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="eOlzvFxLLHOvy4FRhxAW" version="16.6.5" type="github">
   <diagram id="rpGUyRY0c6zzdN_JAQHF" name="Page-1">
     <mxGraphModel dx="903" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,76 +6,76 @@
         <mxCell id="1" parent="0" />
         <mxCell id="3JQ_DlPpZyVaK5QD3R42-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3JQ_DlPpZyVaK5QD3R42-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="191" y="264" as="targetPoint" />
+            <mxPoint x="191" y="725" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3JQ_DlPpZyVaK5QD3R42-1" value="接收资源订单，计算计费信息，等待资源开通" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="131" y="154" width="120" height="60" as="geometry" />
+          <mxGeometry x="131" y="615" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3JQ_DlPpZyVaK5QD3R42-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3JQ_DlPpZyVaK5QD3R42-2" target="3JQ_DlPpZyVaK5QD3R42-1">
+        <mxCell id="3JQ_DlPpZyVaK5QD3R42-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3JQ_DlPpZyVaK5QD3R42-2" target="3JQ_DlPpZyVaK5QD3R42-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3JQ_DlPpZyVaK5QD3R42-2" value="提交资源订购订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="355" y="154" width="120" height="60" as="geometry" />
+        <mxCell id="3JQ_DlPpZyVaK5QD3R42-2" value="提交资源订购订单&lt;br&gt;（包含CRM、服开等渠道提交订单）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="131" y="499" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3JQ_DlPpZyVaK5QD3R42-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="294" y="513" as="sourcePoint" />
-            <mxPoint x="294" y="93" as="targetPoint" />
+            <mxPoint x="294" y="974" as="sourcePoint" />
+            <mxPoint x="294" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3JQ_DlPpZyVaK5QD3R42-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="534" y="513" as="sourcePoint" />
-            <mxPoint x="534" y="93" as="targetPoint" />
+            <mxPoint x="534" y="974" as="sourcePoint" />
+            <mxPoint x="534" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3JQ_DlPpZyVaK5QD3R42-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="704" y="504" as="sourcePoint" />
-            <mxPoint x="704" y="84" as="targetPoint" />
+            <mxPoint x="704" y="965" as="sourcePoint" />
+            <mxPoint x="704" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3JQ_DlPpZyVaK5QD3R42-6" value="天翼云BCP系统" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="154" y="93" width="60" height="30" as="geometry" />
+          <mxGeometry x="161" y="410" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3JQ_DlPpZyVaK5QD3R42-7" value="多云管理平台" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="394" y="93" width="60" height="30" as="geometry" />
+          <mxGeometry x="385" y="410" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3JQ_DlPpZyVaK5QD3R42-8" value="ZSTACK" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="584" y="93" width="60" height="30" as="geometry" />
+          <mxGeometry x="591" y="410" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3JQ_DlPpZyVaK5QD3R42-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3JQ_DlPpZyVaK5QD3R42-11" target="3JQ_DlPpZyVaK5QD3R42-15">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="611" y="294" as="targetPoint" />
+            <mxPoint x="611" y="755" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3JQ_DlPpZyVaK5QD3R42-11" value="进入资源施工环节" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="355" y="264" width="120" height="60" as="geometry" />
+          <mxGeometry x="355" y="725" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3JQ_DlPpZyVaK5QD3R42-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3JQ_DlPpZyVaK5QD3R42-12" target="3JQ_DlPpZyVaK5QD3R42-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3JQ_DlPpZyVaK5QD3R42-12" value="下发资源开通消息（MQ通知）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="131" y="264" width="120" height="60" as="geometry" />
+          <mxGeometry x="131" y="725" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3JQ_DlPpZyVaK5QD3R42-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3JQ_DlPpZyVaK5QD3R42-15" target="3JQ_DlPpZyVaK5QD3R42-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3JQ_DlPpZyVaK5QD3R42-15" value="开通资源&lt;br&gt;（包含虚机、磁盘、弹性ip等）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="576" y="264" width="110" height="60" as="geometry" />
+          <mxGeometry x="576" y="725" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3JQ_DlPpZyVaK5QD3R42-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3JQ_DlPpZyVaK5QD3R42-18" target="3JQ_DlPpZyVaK5QD3R42-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3JQ_DlPpZyVaK5QD3R42-18" value="资源开通完成，回单开通资源的具体信息&lt;br&gt;给天翼云BCP系统（MQ通知）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="355" y="364" width="120" height="60" as="geometry" />
+          <mxGeometry x="355" y="825" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3JQ_DlPpZyVaK5QD3R42-20" value="回填BCP系统具体资源信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="131" y="364" width="120" height="60" as="geometry" />
+          <mxGeometry x="131" y="825" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3JQ_DlPpZyVaK5QD3R42-22" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;资源开通具体流程&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="324" y="53" width="190" height="30" as="geometry" />
+          <mxGeometry x="300" y="340" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3JQ_DlPpZyVaK5QD3R42-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="3JQ_DlPpZyVaK5QD3R42-24" target="3JQ_DlPpZyVaK5QD3R42-26">
           <mxGeometry relative="1" as="geometry" />
@@ -148,13 +148,13 @@
         <mxCell id="3JQ_DlPpZyVaK5QD3R42-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="3JQ_DlPpZyVaK5QD3R42-53" target="3JQ_DlPpZyVaK5QD3R42-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3JQ_DlPpZyVaK5QD3R42-53" value="调用删除资源接口" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3JQ_DlPpZyVaK5QD3R42-53" value="调用删除资源接口&lt;br&gt;(删除通知的资源，BCP通知相关资源ID)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="422" y="1590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3JQ_DlPpZyVaK5QD3R42-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="3JQ_DlPpZyVaK5QD3R42-55" target="3JQ_DlPpZyVaK5QD3R42-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3JQ_DlPpZyVaK5QD3R42-55" value="删除虚机和附属资源" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3JQ_DlPpZyVaK5QD3R42-55" value="删除BCP通知的相关ID的资源" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="622" y="1590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3JQ_DlPpZyVaK5QD3R42-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="3JQ_DlPpZyVaK5QD3R42-58" target="3JQ_DlPpZyVaK5QD3R42-62">
@@ -210,6 +210,9 @@
         </mxCell>
         <mxCell id="3JQ_DlPpZyVaK5QD3R42-76" value="唤醒成功，回单给BCP系统&lt;br&gt;（MQ）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="422" y="1890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3JQ_DlPpZyVaK5QD3R42-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fillColor=#33001A;" edge="1" parent="1" source="3JQ_DlPpZyVaK5QD3R42-80" target="3JQ_DlPpZyVaK5QD3R42-104">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3JQ_DlPpZyVaK5QD3R42-80" value="解除冻结，更新虚机到期时间" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="198" y="1890" width="120" height="60" as="geometry" />
@@ -286,6 +289,9 @@
         </mxCell>
         <mxCell id="3JQ_DlPpZyVaK5QD3R42-103" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;资源变更具体流程&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="2463" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3JQ_DlPpZyVaK5QD3R42-104" value="回写到期时间到多云管，界面显示到期时间" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="426" y="1990" width="124" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
