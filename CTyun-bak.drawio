@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-14T08:40:19.135Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="Wx4xtI3_EYYe-aBskYUa" version="16.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-14T08:40:42.873Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="XdDTVSFSs-nXdRe5v4op" version="16.6.5" type="github">
   <diagram id="rpGUyRY0c6zzdN_JAQHF" name="Page-1">
     <mxGraphModel dx="1874" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -71,7 +71,7 @@
             <mxPoint x="38" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ie3nvuuHlmbkClOvtdQf-15" value="选择创建资源的参数，调用服开的询价接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-15" value="选择创建资源的参数，调用CRM的询价接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294.5" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ie3nvuuHlmbkClOvtdQf-17" value="CRM" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -105,7 +105,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ie3nvuuHlmbkClOvtdQf-21" value="服开根据用户选择的资源，返回价格" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="686" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ie3nvuuHlmbkClOvtdQf-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ie3nvuuHlmbkClOvtdQf-24" target="ie3nvuuHlmbkClOvtdQf-26">
           <mxGeometry relative="1" as="geometry" />
