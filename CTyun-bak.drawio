@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-13T10:13:38.844Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="O0LLEnt_fKh032tX6-8o" version="16.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-14T01:31:28.552Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="3jBaPuNHIAnMEblzMGh9" version="16.6.5" type="github">
   <diagram id="rpGUyRY0c6zzdN_JAQHF" name="Page-1">
-    <mxGraphModel dx="1234" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1234" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,13 +55,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ie3nvuuHlmbkClOvtdQf-12" value="sso到多云管平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294.5" y="217.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="294.5" y="250" width="120" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="ie3nvuuHlmbkClOvtdQf-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ie3nvuuHlmbkClOvtdQf-13" target="ie3nvuuHlmbkClOvtdQf-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ie3nvuuHlmbkClOvtdQf-13" value="sso到多云管平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294.5" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="294.5" y="310" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ie3nvuuHlmbkClOvtdQf-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ie3nvuuHlmbkClOvtdQf-15" target="ie3nvuuHlmbkClOvtdQf-21">
           <mxGeometry relative="1" as="geometry" />
@@ -178,6 +178,197 @@
         </mxCell>
         <mxCell id="ie3nvuuHlmbkClOvtdQf-50" value="记录返回的到期时间，更新资源到期时间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="273" y="1100" width="121.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-69" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="2320.3333740234375" as="sourcePoint" />
+            <mxPoint x="219.5" y="1239" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-70" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="2325.666748046875" as="sourcePoint" />
+            <mxPoint x="459.5" y="1245" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-71" value="天翼云Portal" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="86.5" y="1251" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-72" value="多云管理平台" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310.5" y="1251" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-73" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;资源变更流程&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250.5" y="1180" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ie3nvuuHlmbkClOvtdQf-75" target="ie3nvuuHlmbkClOvtdQf-77">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="115" y="1441" />
+              <mxPoint x="36" y="1441" />
+              <mxPoint x="36" y="1336" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-75" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100.13" y="1481" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ie3nvuuHlmbkClOvtdQf-77" target="ie3nvuuHlmbkClOvtdQf-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-77" value="&lt;div&gt;&lt;span&gt;访问天翼云portal&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="56" y="1321" width="119.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ie3nvuuHlmbkClOvtdQf-79" target="ie3nvuuHlmbkClOvtdQf-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="279.5" y="1409.3" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-79" value="登录天翼云控制台" style="whiteSpace=wrap;html=1;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="62.75" y="1396" width="104.75" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ie3nvuuHlmbkClOvtdQf-81" target="ie3nvuuHlmbkClOvtdQf-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-81" value="sso到多云管平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280.5" y="1378.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ie3nvuuHlmbkClOvtdQf-83" target="ie3nvuuHlmbkClOvtdQf-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-83" value="sso到多云管平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280.5" y="1471" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ie3nvuuHlmbkClOvtdQf-86" target="ie3nvuuHlmbkClOvtdQf-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-85" value="调用服开的询价接口" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ie3nvuuHlmbkClOvtdQf-84">
+          <mxGeometry x="-0.2081" relative="1" as="geometry">
+            <mxPoint x="38" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-86" value="选择创建资源的参数，调用服开的询价接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280.5" y="1571" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-87" value="CRM" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="516" y="1251" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-88" value="服开" style="text;html=1;strokeColor=#C73500;fillColor=#fa6800;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="681" y="1251" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-89" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="638" y="2324" as="sourcePoint" />
+            <mxPoint x="638" y="1234" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.446;exitY=1.033;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ie3nvuuHlmbkClOvtdQf-92" target="ie3nvuuHlmbkClOvtdQf-96">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="335" y="1771" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-91" value="调用CRM的订购接口" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ie3nvuuHlmbkClOvtdQf-90">
+          <mxGeometry x="-0.0426" y="-2" relative="1" as="geometry">
+            <mxPoint x="14" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-92" value="展示价格到当前界面，提交订单到CRM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280.5" y="1671" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ie3nvuuHlmbkClOvtdQf-94" target="ie3nvuuHlmbkClOvtdQf-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-94" value="服开根据用户选择的资源，返回价格" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="672" y="1571" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ie3nvuuHlmbkClOvtdQf-96" target="ie3nvuuHlmbkClOvtdQf-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-96" value="受理云管提交的订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="486" y="1741" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ie3nvuuHlmbkClOvtdQf-99" target="ie3nvuuHlmbkClOvtdQf-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-98" value="回单给云管" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ie3nvuuHlmbkClOvtdQf-97">
+          <mxGeometry x="-0.2281" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-99" value="受理完毕，下发资源开通消息，通知多云管开通资源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="486" y="1821" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ie3nvuuHlmbkClOvtdQf-101" target="ie3nvuuHlmbkClOvtdQf-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-101" value="进入资源施工环节" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260.5" y="1821" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ie3nvuuHlmbkClOvtdQf-103" target="ie3nvuuHlmbkClOvtdQf-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-103" value="开通资源&lt;br&gt;（包含虚机、磁盘、弹性ip等）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280.5" y="1911" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ie3nvuuHlmbkClOvtdQf-105" target="ie3nvuuHlmbkClOvtdQf-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-105" value="资源开通完成，回单开通资源的具体信息&lt;br&gt;给crm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285.5" y="2141" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.438;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ie3nvuuHlmbkClOvtdQf-110" target="ie3nvuuHlmbkClOvtdQf-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-107" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ie3nvuuHlmbkClOvtdQf-106">
+          <mxGeometry x="-0.1208" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ie3nvuuHlmbkClOvtdQf-110" target="ie3nvuuHlmbkClOvtdQf-103">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="256" y="1941" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="244" y="2091" />
+              <mxPoint x="244" y="1941" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-109" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ie3nvuuHlmbkClOvtdQf-108">
+          <mxGeometry x="-0.0721" y="2" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-110" value="资源是否开通成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300.5" y="2031" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-111" value="资源没有成功开通，需要重试开通资源" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="218.5" y="2081" width="82" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ie3nvuuHlmbkClOvtdQf-113" target="ie3nvuuHlmbkClOvtdQf-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-113" value="记录云管返回的信息，返回虚机到期时间等信息给云管" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="498" y="2141" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-114" value="记录返回的到期时间，更新资源到期时间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="259" y="2261" width="121.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ie3nvuuHlmbkClOvtdQf-115" target="ie3nvuuHlmbkClOvtdQf-116">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="180" />
+              <mxPoint x="380" y="180" />
+              <mxPoint x="380" y="170" />
+              <mxPoint x="395" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-115" value="多云管定期同步天翼云用户列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="259" y="140" width="101" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ie3nvuuHlmbkClOvtdQf-116" value="多云管同步创建天翼云用户账号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="190" width="90.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
