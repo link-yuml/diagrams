@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-21T09:19:53.759Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="JMrzf-jgqBZRVFKRxSEA" version="20.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-21T10:03:15.892Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="mdRdjWZfD6rpUA8e0LwG" version="20.1.2" type="github">
   <diagram id="q94vO7x2B7mEJxBbjwwC" name="第 1 页">
     <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,8 +10,8 @@
         <mxCell id="HXe5Fqyoxgzw2WQCRE1f-2" value="yj-api-server&lt;br&gt;提供所有与前端直接交互的rest接口以及各种DTO，涉及与数据库交互的地方采用feign的方式远程调用service的方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="30" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HXe5Fqyoxgzw2WQCRE1f-3" value="yj-services&lt;br&gt;负责处理api服务的业务逻辑数据，数据库的交互都在该工程下面，并且" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="170" width="160" height="60" as="geometry" />
+        <mxCell id="HXe5Fqyoxgzw2WQCRE1f-3" value="yj-services&lt;br&gt;负责处理api服务的业务逻辑数据，数据库的交互都在该工程下面，提供feignt客户端供其他服务远程调用，抽象各种实体类，整个项目都采用统一的实体对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="170" width="220" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
