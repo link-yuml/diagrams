@@ -1,17 +1,108 @@
-<mxfile host="app.diagrams.net" modified="2022-07-21T10:03:15.892Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="mdRdjWZfD6rpUA8e0LwG" version="20.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-27T01:17:09.064Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="x3K5jZE30n2voDBeT0Ux" version="20.1.4" type="github">
   <diagram id="q94vO7x2B7mEJxBbjwwC" name="第 1 页">
-    <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="865" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="HXe5Fqyoxgzw2WQCRE1f-1" value="yj-api-server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="90" width="120" height="60" as="geometry" />
+        <mxCell id="uroaFYOmOOPLCtbvpIW2-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HXe5Fqyoxgzw2WQCRE1f-1" target="uroaFYOmOOPLCtbvpIW2-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HXe5Fqyoxgzw2WQCRE1f-2" value="yj-api-server&lt;br&gt;提供所有与前端直接交互的rest接口以及各种DTO，涉及与数据库交互的地方采用feign的方式远程调用service的方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="30" width="160" height="80" as="geometry" />
+        <mxCell id="uroaFYOmOOPLCtbvpIW2-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HXe5Fqyoxgzw2WQCRE1f-1" target="uroaFYOmOOPLCtbvpIW2-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HXe5Fqyoxgzw2WQCRE1f-3" value="yj-services&lt;br&gt;负责处理api服务的业务逻辑数据，数据库的交互都在该工程下面，提供feignt客户端供其他服务远程调用，抽象各种实体类，整个项目都采用统一的实体对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="170" width="220" height="70" as="geometry" />
+        <mxCell id="uroaFYOmOOPLCtbvpIW2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HXe5Fqyoxgzw2WQCRE1f-1" target="uroaFYOmOOPLCtbvpIW2-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HXe5Fqyoxgzw2WQCRE1f-1" value="yj-api-server" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HXe5Fqyoxgzw2WQCRE1f-2" value="yj-api-server&lt;br&gt;提供所有与前端直接交互的rest接口以及各种DTO，涉及与数据库交互的地方采用feign的方式远程调用service的方法" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="334" y="30" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HXe5Fqyoxgzw2WQCRE1f-3" value="yj-services&lt;br&gt;负责处理api服务的业务逻辑数据，数据库的交互都在该工程下面，提供feignt客户端供其他服务远程调用，抽象各种实体类，整个项目都采用统一的实体对象" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="80" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uroaFYOmOOPLCtbvpIW2-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uroaFYOmOOPLCtbvpIW2-1" target="uroaFYOmOOPLCtbvpIW2-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uroaFYOmOOPLCtbvpIW2-1" value="Controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="325" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uroaFYOmOOPLCtbvpIW2-3" value="DTO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="325" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uroaFYOmOOPLCtbvpIW2-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uroaFYOmOOPLCtbvpIW2-5" target="uroaFYOmOOPLCtbvpIW2-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="345" />
+              <mxPoint x="430" y="345" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uroaFYOmOOPLCtbvpIW2-5" value="FeignClient远程调用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="325" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uroaFYOmOOPLCtbvpIW2-19" value="统一创建虚机接口入参，删除无关的参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="410" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uroaFYOmOOPLCtbvpIW2-22" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="420" y="317.5" width="250" height="132.5" as="geometry" />
+        </mxCell>
+        <mxCell id="uroaFYOmOOPLCtbvpIW2-9" value="yj-services" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uroaFYOmOOPLCtbvpIW2-22">
+          <mxGeometry x="50" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="uroaFYOmOOPLCtbvpIW2-10" value="统一实体对象，整个项目共用统一的实体" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uroaFYOmOOPLCtbvpIW2-22">
+          <mxGeometry y="92.5" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uroaFYOmOOPLCtbvpIW2-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="uroaFYOmOOPLCtbvpIW2-22" source="uroaFYOmOOPLCtbvpIW2-9" target="uroaFYOmOOPLCtbvpIW2-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="72.5" />
+              <mxPoint x="35" y="72.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uroaFYOmOOPLCtbvpIW2-12" value="yj-services" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uroaFYOmOOPLCtbvpIW2-22">
+          <mxGeometry x="90" y="92.5" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uroaFYOmOOPLCtbvpIW2-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="uroaFYOmOOPLCtbvpIW2-22" source="uroaFYOmOOPLCtbvpIW2-9" target="uroaFYOmOOPLCtbvpIW2-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="72.5" />
+              <mxPoint x="130" y="72.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uroaFYOmOOPLCtbvpIW2-14" value="yj-services" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="uroaFYOmOOPLCtbvpIW2-22">
+          <mxGeometry x="190" y="92.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uroaFYOmOOPLCtbvpIW2-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="uroaFYOmOOPLCtbvpIW2-22" source="uroaFYOmOOPLCtbvpIW2-9" target="uroaFYOmOOPLCtbvpIW2-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="47.5" as="sourcePoint" />
+            <mxPoint x="235.00800000000004" y="92.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="72.5" />
+              <mxPoint x="235" y="72.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uroaFYOmOOPLCtbvpIW2-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="uroaFYOmOOPLCtbvpIW2-22" source="uroaFYOmOOPLCtbvpIW2-9" target="uroaFYOmOOPLCtbvpIW2-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="72.5" />
+              <mxPoint x="235" y="72.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uroaFYOmOOPLCtbvpIW2-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="uroaFYOmOOPLCtbvpIW2-22" source="uroaFYOmOOPLCtbvpIW2-9" target="uroaFYOmOOPLCtbvpIW2-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="47.5" as="sourcePoint" />
+            <mxPoint x="235.00800000000004" y="92.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="72.5" />
+              <mxPoint x="235" y="72.5" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
