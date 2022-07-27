@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-27T02:39:14.818Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="lVR31eYCYwBJUZY5H-8X" version="20.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-27T06:10:50.682Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="LdxC4m3D3oL6fE-nDR4y" version="20.1.4" type="github">
   <diagram id="q94vO7x2B7mEJxBbjwwC" name="第 1 页">
     <mxGraphModel dx="865" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,12 +15,6 @@
         </mxCell>
         <mxCell id="HXe5Fqyoxgzw2WQCRE1f-1" value="yj-api-server" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="210" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HXe5Fqyoxgzw2WQCRE1f-2" value="yj-api-server&lt;br&gt;提供所有与前端直接交互的rest接口以及各种DTO，涉及与数据库交互的地方采用feign的方式远程调用service的方法" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="334" y="30" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="HXe5Fqyoxgzw2WQCRE1f-3" value="yj-services&lt;br&gt;负责处理api服务的业务逻辑数据，数据库的交互都在该工程下面，提供feignt客户端供其他服务远程调用，抽象各种实体类，整个项目都采用统一的实体对象" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="570" y="80" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="uroaFYOmOOPLCtbvpIW2-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uroaFYOmOOPLCtbvpIW2-1" target="uroaFYOmOOPLCtbvpIW2-19">
           <mxGeometry relative="1" as="geometry" />
@@ -111,7 +105,13 @@
           <mxGeometry x="520" y="545" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uroaFYOmOOPLCtbvpIW2-25" value="yj-plugin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="510" width="90" height="40" as="geometry" />
+          <mxGeometry x="680" y="520" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uroaFYOmOOPLCtbvpIW2-28" value="yj-services&lt;br&gt;负责处理api服务的业务逻辑数据，数据库的交互都在该工程下面，提供feignt客户端供其他服务远程调用，抽象各种实体类，整个项目都采用统一的实体对象" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="240" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uroaFYOmOOPLCtbvpIW2-29" value="yj-api-server&lt;br&gt;提供所有与前端直接交互的rest接口以及各种DTO，涉及与数据库交互的地方采用feign的方式远程调用service的方法" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="140" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
