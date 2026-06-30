@@ -81,6 +81,35 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="o0ACRYzJzNpzrkVZlpqy-1" edge="1" parent="1" source="o0ACRYzJzNpzrkVZlpqy-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="o0ACRYzJzNpzrkVZlpqy-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o0ACRYzJzNpzrkVZlpqy-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CRM侧新开Token群子账号" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="o0ACRYzJzNpzrkVZlpqy-3" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="610" width="20" x="340" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="o0ACRYzJzNpzrkVZlpqy-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;CRM&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="150" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="o0ACRYzJzNpzrkVZlpqy-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;算力超市&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="76" x="454" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="o0ACRYzJzNpzrkVZlpqy-6" edge="1" parent="1" source="o0ACRYzJzNpzrkVZlpqy-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="o0ACRYzJzNpzrkVZlpqy-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o0ACRYzJzNpzrkVZlpqy-7" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="推送用户基础信息与产品属性信息" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="o0ACRYzJzNpzrkVZlpqy-8" edge="1" parent="1" source="o0ACRYzJzNpzrkVZlpqy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o0ACRYzJzNpzrkVZlpqy-9" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="用户激活算力超市账号" vertex="1">
+          <mxGeometry height="60" width="70" x="420" y="280" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
