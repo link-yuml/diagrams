@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="JqluXfa_f2IJzsKtI3QW">
-    <mxGraphModel dx="1363" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1572" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="EvzH9mQ54OKGDXKAPQbW-2" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="1040" width="10" x="350" y="20" as="geometry" />
+          <mxGeometry height="1290" width="10" x="350" y="20" as="geometry" />
         </mxCell>
         <mxCell id="EvzH9mQ54OKGDXKAPQbW-7" edge="1" parent="1" source="EvzH9mQ54OKGDXKAPQbW-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="EvzH9mQ54OKGDXKAPQbW-6" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -51,7 +51,7 @@
           <mxGeometry height="40" width="106" x="421" y="220" as="geometry" />
         </mxCell>
         <mxCell id="EvzH9mQ54OKGDXKAPQbW-17" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="1049" width="10" x="620" y="11" as="geometry" />
+          <mxGeometry height="1299" width="10" x="620" y="11" as="geometry" />
         </mxCell>
         <mxCell id="EvzH9mQ54OKGDXKAPQbW-24" edge="1" parent="1" source="EvzH9mQ54OKGDXKAPQbW-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="EvzH9mQ54OKGDXKAPQbW-23" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -66,7 +66,7 @@
           <mxGeometry height="80" width="134" x="788" y="200" as="geometry" />
         </mxCell>
         <mxCell id="EvzH9mQ54OKGDXKAPQbW-25" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="1039" width="10" x="1070" y="11" as="geometry" />
+          <mxGeometry height="1289" width="10" x="1070" y="11" as="geometry" />
         </mxCell>
         <mxCell id="ymThll3WNrU9gc3IHhvO-7" edge="1" parent="1" source="EvzH9mQ54OKGDXKAPQbW-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ymThll3WNrU9gc3IHhvO-6" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -150,6 +150,27 @@
         </mxCell>
         <mxCell id="ymThll3WNrU9gc3IHhvO-21" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="收到信息，订购完成" vertex="1">
           <mxGeometry height="60" width="120" x="720" y="805" as="geometry" />
+        </mxCell>
+        <mxCell id="ymThll3WNrU9gc3IHhvO-25" edge="1" parent="1" source="ymThll3WNrU9gc3IHhvO-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ymThll3WNrU9gc3IHhvO-24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ymThll3WNrU9gc3IHhvO-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="使用管理员手机号登录智谱官网" vertex="1">
+          <mxGeometry height="50" width="120" x="420" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="ymThll3WNrU9gc3IHhvO-27" edge="1" parent="1" source="ymThll3WNrU9gc3IHhvO-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ymThll3WNrU9gc3IHhvO-26" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ymThll3WNrU9gc3IHhvO-24" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="分配席位信息给实际使用用户" vertex="1">
+          <mxGeometry height="50" width="120" x="420" y="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="ymThll3WNrU9gc3IHhvO-29" edge="1" parent="1" source="ymThll3WNrU9gc3IHhvO-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ymThll3WNrU9gc3IHhvO-28" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ymThll3WNrU9gc3IHhvO-26" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="用户收到短信，登录智谱官网，激活账号，同意加入组织" vertex="1">
+          <mxGeometry height="60" width="120" x="420" y="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="ymThll3WNrU9gc3IHhvO-28" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="查看分配给自己的API KEY，复制相应API KEY和Endpoint，填写到调用工具中进行使用" vertex="1">
+          <mxGeometry height="60" width="140" x="410" y="1240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
