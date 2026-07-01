@@ -48,7 +48,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EvzH9mQ54OKGDXKAPQbW-15" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="获取并记录管理员注册的账号ID、手机号等信息" vertex="1">
-          <mxGeometry height="40" width="106" x="421" y="210" as="geometry" />
+          <mxGeometry height="40" width="106" x="421" y="220" as="geometry" />
         </mxCell>
         <mxCell id="EvzH9mQ54OKGDXKAPQbW-17" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
           <mxGeometry height="1049" width="10" x="620" y="11" as="geometry" />
@@ -57,13 +57,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EvzH9mQ54OKGDXKAPQbW-21" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="CRM受理开通算力超市群子账号" vertex="1">
-          <mxGeometry height="60" width="70" x="670" y="200" as="geometry" />
+          <mxGeometry height="60" width="70" x="660" y="210" as="geometry" />
         </mxCell>
         <mxCell id="EvzH9mQ54OKGDXKAPQbW-33" edge="1" parent="1" source="EvzH9mQ54OKGDXKAPQbW-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="EvzH9mQ54OKGDXKAPQbW-32" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EvzH9mQ54OKGDXKAPQbW-23" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="CRM受理订购Token Coding Plan标准版或&lt;div&gt;高级版套餐&lt;div&gt;（&lt;b&gt;&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;2个起订&lt;/font&gt;&lt;/b&gt;）&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="134" x="788" y="200" as="geometry" />
+        <mxCell id="EvzH9mQ54OKGDXKAPQbW-23" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="CRM受理订购Token Coding Plan标准版或&lt;div&gt;高级版套餐&lt;div&gt;（&lt;b&gt;&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;2个起订&lt;/font&gt;&lt;/b&gt;）、订购地市、客户经理揽装信息&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="134" x="788" y="200" as="geometry" />
         </mxCell>
         <mxCell id="EvzH9mQ54OKGDXKAPQbW-25" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
           <mxGeometry height="1039" width="10" x="1070" y="11" as="geometry" />
@@ -89,8 +89,8 @@
         <mxCell id="EvzH9mQ54OKGDXKAPQbW-34" edge="1" parent="1" source="EvzH9mQ54OKGDXKAPQbW-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="EvzH9mQ54OKGDXKAPQbW-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EvzH9mQ54OKGDXKAPQbW-32" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="服开推送订购单给算力" vertex="1">
-          <mxGeometry height="60" width="88" x="960" y="200" as="geometry" />
+        <mxCell id="EvzH9mQ54OKGDXKAPQbW-32" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="服开推送订购单及其他附属信息给算力超市" vertex="1">
+          <mxGeometry height="80" width="88" x="960" y="200" as="geometry" />
         </mxCell>
         <mxCell id="ymThll3WNrU9gc3IHhvO-3" edge="1" parent="1" source="EvzH9mQ54OKGDXKAPQbW-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="EvzH9mQ54OKGDXKAPQbW-38">
           <mxGeometry relative="1" as="geometry">
