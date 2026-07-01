@@ -81,34 +81,47 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="o0ACRYzJzNpzrkVZlpqy-1" edge="1" parent="1" source="o0ACRYzJzNpzrkVZlpqy-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="o0ACRYzJzNpzrkVZlpqy-7" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="o0ACRYzJzNpzrkVZlpqy-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CRM侧新开Token群子账号" vertex="1">
-          <mxGeometry height="60" width="120" x="120" y="150" as="geometry" />
-        </mxCell>
-        <mxCell id="o0ACRYzJzNpzrkVZlpqy-3" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="610" width="20" x="340" y="80" as="geometry" />
-        </mxCell>
-        <mxCell id="o0ACRYzJzNpzrkVZlpqy-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;CRM&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="150" y="80" as="geometry" />
-        </mxCell>
         <mxCell id="o0ACRYzJzNpzrkVZlpqy-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;算力超市&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="76" x="454" y="80" as="geometry" />
+          <mxGeometry height="30" width="76" x="376" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="o0ACRYzJzNpzrkVZlpqy-6" edge="1" parent="1" source="o0ACRYzJzNpzrkVZlpqy-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="o0ACRYzJzNpzrkVZlpqy-9" value="">
+        <mxCell id="o0ACRYzJzNpzrkVZlpqy-12" edge="1" parent="1" source="o0ACRYzJzNpzrkVZlpqy-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="o0ACRYzJzNpzrkVZlpqy-11" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o0ACRYzJzNpzrkVZlpqy-7" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="推送用户基础信息与产品属性信息" vertex="1">
-          <mxGeometry height="60" width="120" x="120" y="280" as="geometry" />
+        <mxCell id="o0ACRYzJzNpzrkVZlpqy-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="登录算力超市" vertex="1">
+          <mxGeometry height="60" width="120" x="70" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="o0ACRYzJzNpzrkVZlpqy-8" edge="1" parent="1" source="o0ACRYzJzNpzrkVZlpqy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="570" y="310" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="o0ACRYzJzNpzrkVZlpqy-14" edge="1" parent="1" source="o0ACRYzJzNpzrkVZlpqy-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="o0ACRYzJzNpzrkVZlpqy-13" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o0ACRYzJzNpzrkVZlpqy-9" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="用户激活算力超市账号" vertex="1">
-          <mxGeometry height="60" width="70" x="420" y="280" as="geometry" />
+        <mxCell id="o0ACRYzJzNpzrkVZlpqy-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="点击Token资源包" vertex="1">
+          <mxGeometry height="60" width="120" x="270" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="o0ACRYzJzNpzrkVZlpqy-16" edge="1" parent="1" source="o0ACRYzJzNpzrkVZlpqy-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="o0ACRYzJzNpzrkVZlpqy-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o0ACRYzJzNpzrkVZlpqy-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="点击Token资源管理" vertex="1">
+          <mxGeometry height="60" width="120" x="470" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="o0ACRYzJzNpzrkVZlpqy-18" edge="1" parent="1" source="o0ACRYzJzNpzrkVZlpqy-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="o0ACRYzJzNpzrkVZlpqy-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o0ACRYzJzNpzrkVZlpqy-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="查看已购买的Token资源列表" vertex="1">
+          <mxGeometry height="60" width="120" x="670" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="o0ACRYzJzNpzrkVZlpqy-20" edge="1" parent="1" source="o0ACRYzJzNpzrkVZlpqy-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="o0ACRYzJzNpzrkVZlpqy-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o0ACRYzJzNpzrkVZlpqy-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="获取平台服务地址与已购买的API KEY" vertex="1">
+          <mxGeometry height="60" width="120" x="670" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="o0ACRYzJzNpzrkVZlpqy-22" edge="1" parent="1" source="o0ACRYzJzNpzrkVZlpqy-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="o0ACRYzJzNpzrkVZlpqy-21" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o0ACRYzJzNpzrkVZlpqy-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="将获取的API KEY与服务地址填入第三方工具中，进行使用" vertex="1">
+          <mxGeometry height="60" width="120" x="470" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="o0ACRYzJzNpzrkVZlpqy-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="登录平台查看实时用量信息与账单信息" vertex="1">
+          <mxGeometry height="60" width="120" x="270" y="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
