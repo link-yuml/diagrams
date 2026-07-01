@@ -108,7 +108,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ymThll3WNrU9gc3IHhvO-1" parent="1" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" value="线下邮件回复具体开通时间（精确到时分秒）、智谱侧用户名、用户ID、手机号等重要信息" vertex="1">
-          <mxGeometry height="70" width="171" x="410" y="600" as="geometry" />
+          <mxGeometry height="70" width="171" x="414.5" y="599" as="geometry" />
         </mxCell>
         <mxCell id="ymThll3WNrU9gc3IHhvO-8" edge="1" parent="1" source="ymThll3WNrU9gc3IHhvO-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="EvzH9mQ54OKGDXKAPQbW-35">
           <mxGeometry relative="1" as="geometry" />
@@ -211,7 +211,7 @@
         <mxCell id="ymThll3WNrU9gc3IHhvO-44" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="系统自动流程" vertex="1">
           <mxGeometry height="60" width="134" x="1700" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="ymThll3WNrU9gc3IHhvO-45" parent="1" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" value="全人工处理" vertex="1">
+        <mxCell id="ymThll3WNrU9gc3IHhvO-45" parent="1" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" value="人工或半自动处理" vertex="1">
           <mxGeometry height="60" width="130" x="1700" y="150" as="geometry" />
         </mxCell>
       </root>
