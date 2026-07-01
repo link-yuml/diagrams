@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="JqluXfa_f2IJzsKtI3QW">
-    <mxGraphModel dx="1460" dy="854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1363" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="EvzH9mQ54OKGDXKAPQbW-2" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="550" width="10" x="350" y="20" as="geometry" />
+          <mxGeometry height="1040" width="10" x="350" y="20" as="geometry" />
         </mxCell>
         <mxCell id="EvzH9mQ54OKGDXKAPQbW-7" edge="1" parent="1" source="EvzH9mQ54OKGDXKAPQbW-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="EvzH9mQ54OKGDXKAPQbW-6" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -51,7 +51,7 @@
           <mxGeometry height="40" width="106" x="421" y="210" as="geometry" />
         </mxCell>
         <mxCell id="EvzH9mQ54OKGDXKAPQbW-17" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="550" width="10" x="620" y="11" as="geometry" />
+          <mxGeometry height="1049" width="10" x="620" y="11" as="geometry" />
         </mxCell>
         <mxCell id="EvzH9mQ54OKGDXKAPQbW-24" edge="1" parent="1" source="EvzH9mQ54OKGDXKAPQbW-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="EvzH9mQ54OKGDXKAPQbW-23" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -66,14 +66,10 @@
           <mxGeometry height="60" width="134" x="788" y="200" as="geometry" />
         </mxCell>
         <mxCell id="EvzH9mQ54OKGDXKAPQbW-25" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="550" width="10" x="1070" y="11" as="geometry" />
+          <mxGeometry height="1039" width="10" x="1070" y="11" as="geometry" />
         </mxCell>
-        <mxCell id="EvzH9mQ54OKGDXKAPQbW-37" edge="1" parent="1" source="EvzH9mQ54OKGDXKAPQbW-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="EvzH9mQ54OKGDXKAPQbW-35">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1197" y="350" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="ymThll3WNrU9gc3IHhvO-7" edge="1" parent="1" source="EvzH9mQ54OKGDXKAPQbW-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ymThll3WNrU9gc3IHhvO-6" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EvzH9mQ54OKGDXKAPQbW-26" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="算力超市生成待办施工单" vertex="1">
           <mxGeometry height="60" width="134" x="1130" y="200" as="geometry" />
@@ -96,18 +92,64 @@
         <mxCell id="EvzH9mQ54OKGDXKAPQbW-32" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="服开推送订购单给算力" vertex="1">
           <mxGeometry height="60" width="88" x="960" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="EvzH9mQ54OKGDXKAPQbW-40" edge="1" parent="1" source="EvzH9mQ54OKGDXKAPQbW-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="EvzH9mQ54OKGDXKAPQbW-38">
+        <mxCell id="ymThll3WNrU9gc3IHhvO-3" edge="1" parent="1" source="EvzH9mQ54OKGDXKAPQbW-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="EvzH9mQ54OKGDXKAPQbW-38">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="145" y="480" />
+              <mxPoint x="145" y="495" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="EvzH9mQ54OKGDXKAPQbW-35" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" value="线下发邮件给智谱，告知具体开通的&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;套餐包、席位数量、&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;管理员手机号、智谱侧的账号ID&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="60" width="150" x="70" y="320" as="geometry" />
         </mxCell>
+        <mxCell id="ymThll3WNrU9gc3IHhvO-10" edge="1" parent="1" source="EvzH9mQ54OKGDXKAPQbW-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ymThll3WNrU9gc3IHhvO-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EvzH9mQ54OKGDXKAPQbW-38" parent="1" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" value="智谱按要求开通相关资源包和席位数，&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;&lt;b&gt;手动后台标记账号，后期扣费从电信账户扣费&lt;/b&gt;&lt;/font&gt;，授权管理员账号相应权限" vertex="1">
           <mxGeometry height="90" width="160" x="420" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="ymThll3WNrU9gc3IHhvO-12" edge="1" parent="1" source="ymThll3WNrU9gc3IHhvO-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ymThll3WNrU9gc3IHhvO-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ymThll3WNrU9gc3IHhvO-1" parent="1" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" value="线下邮件回复具体开通时间（精确到时分秒）、智谱侧用户名、用户ID、邮箱或手机号等重要信息" vertex="1">
+          <mxGeometry height="70" width="160" x="421" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="ymThll3WNrU9gc3IHhvO-8" edge="1" parent="1" source="ymThll3WNrU9gc3IHhvO-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="EvzH9mQ54OKGDXKAPQbW-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ymThll3WNrU9gc3IHhvO-6" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="客户经理登录算力超市查看待办施工单" vertex="1">
+          <mxGeometry height="60" width="134" x="1130" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="ymThll3WNrU9gc3IHhvO-14" edge="1" parent="1" source="ymThll3WNrU9gc3IHhvO-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ymThll3WNrU9gc3IHhvO-13" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="695" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ymThll3WNrU9gc3IHhvO-11" parent="1" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" value="线下登录算力超市，回填算力超市待办施工单" vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="605" as="geometry" />
+        </mxCell>
+        <mxCell id="ymThll3WNrU9gc3IHhvO-18" edge="1" parent="1" source="ymThll3WNrU9gc3IHhvO-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ymThll3WNrU9gc3IHhvO-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ymThll3WNrU9gc3IHhvO-13" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" value="把智谱回复的信息，回写到算力超市平台" vertex="1">
+          <mxGeometry height="60" width="120" x="1137" y="665" as="geometry" />
+        </mxCell>
+        <mxCell id="ymThll3WNrU9gc3IHhvO-20" edge="1" parent="1" source="ymThll3WNrU9gc3IHhvO-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ymThll3WNrU9gc3IHhvO-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ymThll3WNrU9gc3IHhvO-17" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="回单给服开，订购完成" vertex="1">
+          <mxGeometry height="60" width="123" x="1135.5" y="805" as="geometry" />
+        </mxCell>
+        <mxCell id="ymThll3WNrU9gc3IHhvO-22" edge="1" parent="1" source="ymThll3WNrU9gc3IHhvO-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ymThll3WNrU9gc3IHhvO-21" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ymThll3WNrU9gc3IHhvO-19" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="收到信息，回单CRM" vertex="1">
+          <mxGeometry height="60" width="120" x="920" y="805" as="geometry" />
+        </mxCell>
+        <mxCell id="ymThll3WNrU9gc3IHhvO-21" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="收到信息，订购完成" vertex="1">
+          <mxGeometry height="60" width="120" x="720" y="805" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
