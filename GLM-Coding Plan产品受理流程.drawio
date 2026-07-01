@@ -209,10 +209,10 @@
           <mxGeometry height="30" width="139" x="1241" y="570" as="geometry" />
         </mxCell>
         <mxCell id="ymThll3WNrU9gc3IHhvO-44" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="系统自动流程" vertex="1">
-          <mxGeometry height="60" width="134" x="1700" y="40" as="geometry" />
+          <mxGeometry height="60" width="134" x="1480" y="30" as="geometry" />
         </mxCell>
         <mxCell id="ymThll3WNrU9gc3IHhvO-45" parent="1" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" value="人工或半自动处理" vertex="1">
-          <mxGeometry height="60" width="130" x="1700" y="150" as="geometry" />
+          <mxGeometry height="60" width="130" x="1480" y="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
